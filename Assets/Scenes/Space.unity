@@ -348,7 +348,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bulletPrefab: {fileID: -6525924322296373415, guid: ff810363859a6084db1c2f08b0adf57f, type: 3}
   thrustSpeed: 1
-  turnSpeed: 0.1
+  turnSpeed: 0.28
 --- !u!61 &617413107
 BoxCollider2D:
   m_ObjectHideFlags: 0
