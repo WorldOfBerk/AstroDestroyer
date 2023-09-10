@@ -24,8 +24,6 @@ public class GameManager : MonoBehaviour
    public GameObject winPanel;
    public bool isGameOver = false;
    
-   
-
    private void Start()
    {
       scoreText = GameObject.Find("ScoreText").GetComponent<TMP_Text>();
