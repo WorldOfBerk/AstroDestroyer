@@ -9,8 +9,8 @@ public class GameManager : MonoBehaviour
 {
    public Player player;
    public ParticleSystem explosion;
-   public float respawnTime = 3.0f;
    [Header("Numerical")]
+   public float respawnTime = 3.0f;
    public float respawnReActiveTime = 3.0f;
    public int lives = 3;
    public int score = 0;
@@ -22,6 +22,7 @@ public class GameManager : MonoBehaviour
    public Sprite brokenHeartSprite;
    public GameObject losePanel;
    public GameObject winPanel;
+   
    public bool isGameOver = false;
    
    private void Start()
