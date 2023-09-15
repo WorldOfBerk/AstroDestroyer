@@ -84,6 +84,7 @@ public class GameManager : MonoBehaviour
       explosion.Play();
       
       lives--;
+      UpdateLivesUI();
 
       if (lives <= 0)
       {
@@ -92,7 +93,6 @@ public class GameManager : MonoBehaviour
 
       else
       {
-         UpdateLivesUI();
          Invoke(nameof(Respawn), respawnTime);
       }
    }

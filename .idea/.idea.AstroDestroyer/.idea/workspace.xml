@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3646132-c39f-4550-b5b4-3dea521c3241" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AstroDestroyer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AstroDestroyer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Space.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Space.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +63,8 @@
       <workItem from="1666291827077" duration="6204000" />
       <workItem from="1666442627864" duration="1703000" />
       <workItem from="1666471665131" duration="4817000" />
-      <workItem from="1694378633384" duration="6230000" />
+      <workItem from="1694378633384" duration="6839000" />
+      <workItem from="1694716835463" duration="3861000" />
     </task>
     <servers />
   </component>
