@@ -1,2 +1,2 @@
 # AstroDestroyer
-will be updated! 
+- Will be updated! 
